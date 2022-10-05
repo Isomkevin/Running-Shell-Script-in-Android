@@ -2,10 +2,6 @@
 
 This Project/Repo is creating as guide on how to run a shell script in an Android Device
 
-<p align="center">
-    <img src=/screenshot.png alt="Running Script in Android">
-</p>
-
 ### Prerequisites:
 
 1. Having a rooted device helps, but I don’t think it is necessary.
